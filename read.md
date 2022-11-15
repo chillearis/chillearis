@@ -1,0 +1,3 @@
+- 👋 Hi, I’m chillearis
+- 👀 I’m interested in coding
+- ✅ I’m coding on Python, JS, C#
