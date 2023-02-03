@@ -1,3 +1,1 @@
-- 👋 Hi, I’m chillearis
-- 👀 I’m interested in coding
-- ✅ I’m coding on Python, JS, C#
+hi, why are you here? okay, little about me - coder, musician and owner of music label.
